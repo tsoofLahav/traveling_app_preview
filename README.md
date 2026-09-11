@@ -2,6 +2,7 @@
   <h1>The Betesh Group · Travel App</h1>
   <p><strong>A bespoke mobile travel catalog, designed and built for a company’s needs</strong></p>
   <p>Flutter · Dart · Python · Flask · PostgreSQL · Azure Blob Storage</p>
+  <img src="docs/media/app-preview.png" alt="The Betesh Group app: destination selection, restaurants, and hotel amenities" width="720" />
   <p><a href="https://www.youtube.com/shorts/z2f5DMXWMnA">Watch the app walkthrough →</a></p>
 </div>
 
