@@ -2,11 +2,12 @@
   <h1>The Betesh Group · Travel App</h1>
   <p><strong>A bespoke mobile travel catalog, designed and built for a company’s needs</strong></p>
   <p>Flutter · Dart · Python · Flask · PostgreSQL · Azure Blob Storage</p>
+
+> **Ownership:** The application is proprietary to **The Betesh Group**. This repository is a portfolio showcase of my internship work; it does not distribute the application’s source code or grant rights to use, reproduce, or redistribute the company’s software, branding, or content.
+>
   <img src="docs/media/app-preview.png" alt="The Betesh Group app: destination selection, restaurants, and hotel amenities" width="720" />
   <p><a href="https://www.youtube.com/shorts/z2f5DMXWMnA">Watch the app walkthrough →</a></p>
 </div>
-
-> **Ownership:** The application is proprietary to **The Betesh Group**. This repository is a portfolio showcase of my internship work; it does not distribute the application’s source code or grant rights to use, reproduce, or redistribute the company’s software, branding, or content.
 
 ## Built from a company brief
 
